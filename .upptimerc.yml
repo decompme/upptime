@@ -9,6 +9,9 @@ sites:
   - name: decomp.me
     url: https://decomp.me
     maxResponseTime: 000
+  - name: stats.decomp.me
+    url: https://stats.decomp.me/decomp.me
+    maxResponseTime: 000
 
 status-website:
   cname: status.decomp.me
