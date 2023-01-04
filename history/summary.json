@@ -5,18 +5,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/decomp.me.ico",
     "slug": "decomp-me",
     "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptime": "99.97%",
+    "uptimeDay": "98.24%",
+    "uptimeWeek": "99.75%",
+    "uptimeMonth": "99.94%",
+    "uptimeYear": "99.97%",
     "time": 814,
     "timeDay": 617,
     "timeWeek": 806,
     "timeMonth": 831,
     "timeYear": 814,
     "dailyMinutesDown": {
-      "2023-01-04": 0
+      "2023-01-04": 25
     }
   },
   {
@@ -24,7 +24,7 @@
     "url": "https://stats.decomp.me/decomp.me",
     "icon": "https://icons.duckduckgo.com/ip3/stats.decomp.me.ico",
     "slug": "stats-decomp-me",
-    "status": "up",
+    "status": "down",
     "uptime": "99.67%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.67%",
@@ -36,6 +36,7 @@
     "timeMonth": 534,
     "timeYear": 534,
     "dailyMinutesDown": {
+      "2023-01-04": 0,
       "2022-12-31": 29
     }
   }
