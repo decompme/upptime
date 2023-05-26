@@ -1,7 +1,7 @@
 url: https://stats.decomp.me/decomp.me
-status: up
-code: 200
-responseTime: 463
-lastUpdated: 2023-05-25T23:13:30.426Z
+status: down
+code: 502
+responseTime: 579
+lastUpdated: 2023-05-26T22:32:10.022Z
 startTime: Thu Dec 29 2022 09:57:04 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
