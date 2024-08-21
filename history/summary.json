@@ -4,7 +4,7 @@
     "url": "https://decomp.me",
     "icon": "https://icons.duckduckgo.com/ip3/decomp.me.ico",
     "slug": "decomp-me",
-    "status": "up",
+    "status": "down",
     "uptime": "99.94%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -16,6 +16,7 @@
     "timeMonth": 1020,
     "timeYear": 1058,
     "dailyMinutesDown": {
+      "2024-08-21": 0,
       "2024-04-25": 18,
       "2024-03-13": 16,
       "2023-10-04": 15
@@ -26,18 +27,19 @@
     "url": "https://stats.decomp.me/decomp.me",
     "icon": "https://icons.duckduckgo.com/ip3/stats.decomp.me.ico",
     "slug": "stats-decomp-me",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 616,
+    "time": 617,
     "timeDay": 501,
     "timeWeek": 596,
     "timeMonth": 623,
     "timeYear": 557,
     "dailyMinutesDown": {
+      "2024-08-21": 0,
       "2024-04-25": 18
     }
   }
